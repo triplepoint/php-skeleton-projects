@@ -13,9 +13,9 @@ git commit -a -m "Initial commit."
 
 ## Customize
 ### Project Names
-Find/Replace `PROJECTNAME` with an approprite git project name - something all lower case and with dashes instead of underscores, like `my-new-project`.
-
 Find/Replace `PROJECTNAMESPACE` with a PHP namespace like `MyNewProject`.  Be sure to rename the `/source/PROJECTNAMESPACE` subdirectory and the `/test/PROJECTNAMESPACETest` subdirectory.
+
+Find/Replace `PROJECTNAME` with an appropriate git project name - something all lower case and with dashes instead of underscores, like `my-new-project`.
 
 ### If You're Not Jonathan Hanson
 If you're not me, please Find/Replace `triplepoint/` (case-sensitive) with your own GitHub username.  Also, please search for `jonathan` (case-insensitive) and revise the identities appropriately.
