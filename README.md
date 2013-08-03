@@ -20,7 +20,7 @@ Find/Replace `PROJECTNAMESPACE` with a PHP namespace like `MyNewProject`.  Be su
 ### If You're Not Jonathan Hanson
 If you're not me, please Find/Replace `triplepoint/` (case-sensitive) with your own GitHub username.  Also, please search for `jonathan` (case-insensitive) and revise the identities appropriately.
 
-## Prune Any Unwanted Directories
+### Prune Any Unwanted Directories
 I have a few common directories in place here (especially for the projects) like `cache` and `configuration`, etc.  Prune out any you don't need.
 
 ### Commit
