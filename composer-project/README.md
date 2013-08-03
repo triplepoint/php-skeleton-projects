@@ -1,4 +1,5 @@
 # Introduction
+Master Branch Status - [![Build Status](https://travis-ci.org/triplepoint/php-units-of-measure.png?branch=master)](https://travis-ci.org/triplepoint/PROJECTNAME)
 
 # Installation
 
