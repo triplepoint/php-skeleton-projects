@@ -28,6 +28,12 @@ I have a few common directories in place here (especially for the projects) like
 git commit -a -m "Customizes project skeleton."
 ```
 
+## Travis-CI
+If this is a public repository, you should consider registering it with Travis-CI, and setting up the GitHub callback.
+
+## Packagist.org
+If this is a public library, you should consider registering it with Packagist.org, and setting up the GitHub callback.
+
 ## Done
 At this point, you should have a reasonably useful skeleton in which to start development.  First step is probably to start adding Composer dependencies to the `composer.json` file (see [Packagist.org](https://packagist.org/)), and then do a `composer install`.
 
