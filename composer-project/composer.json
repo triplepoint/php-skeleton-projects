@@ -1,15 +1,15 @@
 {
-    "name":        "triplepoint/PROJECTNAME",
+    "name":        "triplepoint/PROJECT_TITLE",
 
     "description": "",
 
     "type": "project",
-    
+
     "keywords": [
          "", ""
      ],
 
-    "homepage":    "https://github.com/triplepoint/PROJECTNAME",
+    "homepage":    "https://github.com/triplepoint/PROJECT_TITLE",
 
     "license": "MIT",
 
@@ -24,8 +24,8 @@
 
     "support": {
     	"email":  "jonathan@jonathan-hanson.org",
-    	"issues": "https://github.com/triplepoint/PROJECTNAME/issues",
-    	"source": "https://github.com/triplepoint/PROJECTNAME"
+    	"issues": "https://github.com/triplepoint/PROJECT_TITLE/issues",
+    	"source": "https://github.com/triplepoint/PROJECT_TITLE"
     },
 
     "require": {
@@ -40,10 +40,10 @@
 
     "autoload": {
         "psr-0": {
-        	"PROJECTNAMESPACE\\":     "source/"
+        	"PROJECT_NAMESPACE\\":     "source/"
     	}
     },
-    
+
     "config": {
         "bin-dir": "bin"
     }
