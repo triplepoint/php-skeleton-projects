@@ -1,3 +1,8 @@
+# Editors and IDEs
+/.idea/
+*.sublime-workspace
+*.sublime-project
+
 # Windows image file caches
 Thumbs.db
 
@@ -8,10 +13,14 @@ Desktop.ini
 # Python compiled files
 *.py[co]
 
+# PHP Composer files
+/composer.phar
+/vendor/
+
 # Sass
 ## From https://github.com/github/gitignore
 ### SASS Ignores - "Sassy CSS" http://sass-lang.com/
 *.sass-cache
 
-# PHP Composer files
-/vendor/
+# Vagrant files
+/.vagrant/
