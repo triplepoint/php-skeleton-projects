@@ -42,5 +42,11 @@
         "psr-4": {
         	"PROJECT_NAMESPACE\\":     "source/"
     	}
+    },
+
+    "autoload-dev": {
+        "psr-4": {
+             "PhpUnitsOfMeasureTest\\": "tests/"
+        }
     }
 }
