@@ -13,7 +13,7 @@ before_script:
 
 script:
     - ./vendor/bin/phpunit --configuration ./tests/phpunit.xml.dist ./tests
-    - ./vendor/bin/phpcs --standard=./tests/triplepoint-standard.xml --encoding=utf-8 --extensions=php --warning-severity=0 -s ./
+    - ./vendor/bin/phpcs --standard=./tests/phpcs.xml --encoding=utf-8 --extensions=php --warning-severity=0 -s ./
 
 notifications:
     email: false

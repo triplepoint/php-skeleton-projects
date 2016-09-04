@@ -1,12 +1,11 @@
-# Introduction
-Master Branch Status - [![Build Status](https://travis-ci.org/triplepoint/php-units-of-measure.png?branch=master)](https://travis-ci.org/triplepoint/PROJECT_TITLE)
+# {PROJECT_TITLE}
+## Introduction
+Master: [![Build Status](https://travis-ci.org/{PROJECT_OWNER}/{PROJECT_TITLE}.png?branch=master)](https://travis-ci.org/{PROJECT_OWNER}/{PROJECT_TITLE})
 
-# Installation
-## Packagist
-
-# Usage
-
-# Testing and Contributing
-## Travis-CI
-## Unit Tests
-## Code Standards
+## Installation
+### Packagist Info
+## Usage
+## Testing and Contributing
+### Travis-CI
+### Unit Tests
+### Code Standards
