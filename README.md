@@ -9,7 +9,7 @@ Copy the appropriate project type into a new directory, initalize it as a git pr
 cd {some working directory}
 cp -R php-skeleton-projects/composer-library some-new-project
 cd some-new-project
-rm -r *.delete_me.del
+find . -name "delete_me.del" -type f -delete
 git init
 git commit -a -m "Initial commit - cloned from triplepoint/php-skeleton-projects."
 ```
