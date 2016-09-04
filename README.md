@@ -6,9 +6,12 @@ Every time I start a new PHP project, I end up spending 20 minutes organizing th
 Copy the appropriate project type into a new directory, initalize it as a git project, and make the first commit.  For example:
 
 ``` bash
-cp thisdir/composer-library ../new_project_directory
+cd {some working directory}
+cp -R php-skeleton-projects/composer-library some-new-project
+cd some-new-project
+rm -r *.delete_me.del
 git init
-git commit -a -m "Initial commit."
+git commit -a -m "Initial commit - cloned from triplepoint/php-skeleton-projects."
 ```
 
 ## Customize
