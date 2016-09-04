@@ -11,7 +11,8 @@ cp -R php-skeleton-projects/composer-library some-new-project
 cd some-new-project
 find . -name "delete_me.del" -type f -delete
 git init
-git commit -a -m "Initial commit - cloned from {PROJECT_OWNER}/php-skeleton-projects."
+git add .
+git commit -m "Initial commit - cloned from triplepoint/php-skeleton-projects."
 ```
 
 ## Customize
